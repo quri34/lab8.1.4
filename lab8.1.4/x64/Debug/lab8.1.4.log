@@ -1,0 +1,14 @@
+﻿  lab8.1.4.cpp
+C:\Users\bixny\Desktop\c++\lab8.1.4\lab8.1.4\lab8.1.4.cpp(15,33): warning C4305: аргумент: усечение из "int" в "const _Elem"
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\bixny\Desktop\c++\lab8.1.4\lab8.1.4\lab8.1.4.cpp(15,23): warning C4309: аргумент: усечение константного значения
+C:\Users\bixny\Desktop\c++\lab8.1.4\lab8.1.4\lab8.1.4.cpp(25,33): warning C4305: аргумент: усечение из "int" в "const _Elem"
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\bixny\Desktop\c++\lab8.1.4\lab8.1.4\lab8.1.4.cpp(25,23): warning C4309: аргумент: усечение константного значения
+  lab8.1.4.vcxproj -> C:\Users\bixny\Desktop\c++\lab8.1.4\x64\Debug\lab8.1.4.exe
